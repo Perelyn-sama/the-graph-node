@@ -1,0 +1,10 @@
+{
+  "name": "the-graph-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Perelyn-sama <64838956+Perelyn-sama@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
