@@ -1,5 +1,3 @@
-# Simple Node Script to query FlashLoans Data from AAVE with The Grahp
-
 ## Usage
 
 ```bash
